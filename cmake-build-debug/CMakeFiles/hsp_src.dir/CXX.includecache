@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gd/projects/hsp-src/llvs/table.cc
+table.h
+/Users/gd/projects/hsp-src/llvs/table.h
+string
+-
+
+/Users/gd/projects/hsp-src/llvs/table.h
+map
+-
+vector
+-
+

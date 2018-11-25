@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hsp_src"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gd/projects/hsp-src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gd/projects/hsp-src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gd/projects/hsp-src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hsp_src">
+				<Option output="/Users/gd/projects/hsp-src/cmake-build-debug/hsp_src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gd/projects/hsp-src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gd/projects/hsp-src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 hsp_src"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hsp_src/fast">
+				<Option output="/Users/gd/projects/hsp-src/cmake-build-debug/hsp_src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gd/projects/hsp-src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gd/projects/hsp-src/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 hsp_src/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gd/projects/hsp-src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gd/projects/hsp-src/cmake-build-debug/parser.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/cmake-build-debug/parser.cc.rule">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/cmake-build-debug/parser.hh">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/cmake-build-debug/token.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/cmake-build-debug/token.cc.rule">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/code_gen.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/code_gen.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/instruction.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/instruction.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/instructions.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/instructions.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/program.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/program.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/table.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/table.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/value.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/llvs/value.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/main.cpp">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/node.cc">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/node.h">
+			<Option target="hsp_src"/>
+		</Unit>
+		<Unit filename="/Users/gd/projects/hsp-src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

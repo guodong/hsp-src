@@ -1,0 +1,3 @@
+/Users/gd/projects/hsp-src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gd/projects/hsp-src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gd/projects/hsp-src/cmake-build-debug/CMakeFiles/hsp_src.dir
